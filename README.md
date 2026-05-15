@@ -160,6 +160,10 @@ Built-in Modules
 
 > Python's power lies in its readability and its rich standard library. By building the same program incrementally — adding error handling, loops, data structures, and modules — you see exactly *why* each concept exists and *how* it improves your code.
 
+## real Project 
+
+> checkout the branch to project from this repository and you will find a realtime Project on Inventory management and analysis using openpyxl and basic python.
+
 ---
 
 *Happy coding! 🚀*
